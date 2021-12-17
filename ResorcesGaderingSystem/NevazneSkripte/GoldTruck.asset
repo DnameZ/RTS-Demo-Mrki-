@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d38287f19dac2944bbd8329e22712625, type: 3}
+  m_Name: GoldTruck
+  m_EditorClassIdentifier: 
+  TruckEngine: {fileID: 3169776711266201696, guid: 22e6d24fa163d75439cf05bb1b024d7b, type: 3}
+  TypeOfResourceTransporting: 0
+  OperationToDo: 0
+  CurContainerToFill: {fileID: 0}
+  max_Amount: 50

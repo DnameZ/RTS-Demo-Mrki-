@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6a65bfc165c2e2644a46bca1b814d6b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CustomSelectionTool: {instanceID: 0}
+  - selectedGameObject: {instanceID: 0}
+  - ObjectChanged: {instanceID: 0}
+  - truck: {fileID: 11400000, guid: fead0ac02e54eb54fad28add76592e1b, type: 2}
+  - gas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
